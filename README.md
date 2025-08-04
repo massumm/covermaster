@@ -1,20 +1,23 @@
-# Cover Page
+📄 University Cover Page Generator
+This application helps university students create professional cover pages quickly and effortlessly. Simply enter your details once, choose your preferred theme, and download your cover page instantly.
 
-This app simplifies the process of making a cover page for university students.
+✨ Features
+User-Friendly Interface – Simple and intuitive design for a smooth user experience.
 
-### Feature
+One-Time Information Entry – Save your student details for reuse across multiple cover pages.
 
-- User-friendly design
-- One-time information entry ( Student Information )
-- Work for different university
-- Download and Multi-Theme options for the cover page
+Multi-University Support – Works for different universities without modification.
 
-### App Preview
-https://www.youtube.com/shorts/sEHhV0j70I8
+Multiple Themes – Choose from various design themes for your cover page.
 
+Download Option – Easily download your customized cover page in your preferred format.
 
-### Code
+📹 App Preview
+Watch the quick demo here:
 
-- GetX Stage Management
-- Moderately clean code base
-- MVC architecture
+🛠️ Tech Stack
+State Management: GetX
+
+Architecture: MVC
+
+Code Quality: Moderately clean and maintainable codebase
