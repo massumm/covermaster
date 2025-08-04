@@ -13,7 +13,7 @@ Multiple Themes – Choose from various design themes for your cover page.
 Download Option – Easily download your customized cover page in your preferred format.
 
 📹 App Preview
-Watch the quick demo here:
+Watch the quick demo her: https://www.youtube.com/shorts/sEHhV0j70I8
 
 🛠️ Tech Stack
 State Management: GetX
